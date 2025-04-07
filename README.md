@@ -1,2 +1,2 @@
-[![CI/CD Pipeline](https://github.com/labsinet/new405/actions/workflows/405para.yml/badge.svg)](https://github.com/labsinet/new405/actions/workflows/405para.yml)
+[![My first CI](https://github.com/labsinet/GA412/actions/workflows/MyFirstWF.yml/badge.svg)](https://github.com/labsinet/GA412/actions/workflows/MyFirstWF.yml)
 # new405
